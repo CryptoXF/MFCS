@@ -48,7 +48,7 @@
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/2.1.1.png)
 	 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/2.1.2.png)  
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/2.1.2v2.0.png)  
 
 * **题2.**   
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/2.2.1.png)
@@ -71,10 +71,10 @@
 
 ###  第四次作业：椭圆曲线  
 * **题1.**   
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.1.png)
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.1v2.0.png)
 	 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.11.png)    
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.1.2v2.0.png)    
 * 附：计算椭圆曲线点数python参考代码如下（个人巩固练习，仅供参考）
 ```python
 x = 0
@@ -119,7 +119,7 @@ while x<F: #求P+Q
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.2.1.png)
 	 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.2.2.png)  
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/4.2.2v2.0.png)  
 
 ###  第五次作业：格(1)  
 * **题1.**   
