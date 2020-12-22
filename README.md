@@ -67,7 +67,7 @@
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/3.2.1.png)
 	 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/3.2.2.png)  
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/3.2.2a.png)  
 
 ###  第四次作业：椭圆曲线  
 * **题1.**   
@@ -132,14 +132,14 @@ while x<F: #求P+Q
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/5.2.1.png)
 	 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/5.2.21.png) 
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/5.2.22.png)
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/5.2.2a.png) 
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/5.2.2b.png)
 ###  第六次作业：格(2)  
 * **题1.**   
 ![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/6.1.1.png)  
 
 * **解**  
-![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/6.1.2.png)
+![martix](https://github.com/CryptoXF/The-mathematical-foundation-of-cyberspace-security/blob/main/math/6.1.2a.png)
 * 附：LLL算法例子python参考代码如下（个人巩固练习，仅供参考）
 ```python
 k = 2
